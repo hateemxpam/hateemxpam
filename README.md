@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a final-year Software Engineering student at FAST NUCES with a strong focus on building scalable, secure, and intelligent web applications.<br><br>I specialize in combining:<br><br>💻 Full Stack Development (MERN)<br>🤖 AI-powered automation systems<br>🔐 Security-focused architectures<br>☁️ Cloud enthusiasts <br><br>💡 Passionate about solving real-world problems using modern cloud-native technologies and AI.
 
 
