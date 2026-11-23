@@ -1,16 +1,195 @@
-# About Me
-I am a final-year Software Engineering student at FAST NUCES with a strong focus on building scalable, secure, and intelligent web applications.<br><br>I specialize in combining:<br><br>💻 Full Stack Development (MERN)<br>🤖 AI-powered automation systems<br>🔐 Security-focused architectures<br>☁️ Cloud enthusiasts <br><br>💡 Passionate about solving real-world problems using modern cloud-native technologies and AI.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hateem%20Khush%20Bakht&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Junior%20Data%20Scientist%20%40%20UBL%20%E2%80%A2%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hateem Khush Bakht" />
+</p>
 
+<p align="center">
+  <a href="https://hateemportfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+RAG+%26+LLM-powered+systems;Turning+scanned+documents+into+structured+data;Hybrid+retrieval+%E2%80%A2+Reranking+%E2%80%A2+Verification;MERN+%2B+FastAPI+full+stack+foundation" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100074791250682) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hateem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hateemkb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hateemjaved8@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
+<p align="center">
+  <a href="https://hateemportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/hateemkb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hateemjaved8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/_.hateem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/profile.php?id=100074791250682"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hateemxpam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a **Software Engineering graduate from FAST-NUCES Islamabad** and a **Junior Data Scientist at United Bank Limited**, where I build **document intelligence and OCR automation** for banking workflows.
+
+My work sits where **LLMs meet production engineering**: retrieval and pipeline design, LLM integration, evaluation, verification, and deployment. I care about AI systems you can trust: grounded answers, checked outputs, and a human in the loop when confidence is low.
+
+```python
+class Hateem:
+    role       = "Junior Data Scientist @ United Bank Limited"
+    location   = "Lahore, Pakistan 🇵🇰"
+    education  = "BS Software Engineering, FAST-NUCES (Dean's List x2)"
+
+    focus      = ["RAG systems", "Document Intelligence", "LLM Evaluation"]
+    ai_stack   = ["LangChain", "FAISS", "Qdrant", "RAGAs", "Azure OpenAI", "Azure Document Intelligence"]
+    full_stack = ["React", "Node.js", "Express", "MongoDB", "FastAPI"]
+
+    def philosophy(self):
+        return "Don't trust the LLM. Verify every value against the source."
+```
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="70"><b>🏦</b></td>
+    <td>
+      <b>United Bank Limited (UBL)</b> · <i>Junior Data Scientist</i><br/>
+      <sub>Jul 2026 – Present · Lahore</sub><br/>
+      • <b>OCR Data Extraction for Murabaha Financing (Shariah Audit):</b> API + CLI pipeline on Azure Document Intelligence &amp; Azure OpenAI that turns scanned transaction packs into review-ready Excel/JSON, cutting <b>1+ hour</b> of manual transcription to <b>~1 minute per pack</b>.<br/>
+      • <b>U Secure Fraud Detection:</b> validated amended fraud-detection rules against live pipeline runs and flagged inconsistencies in the rules documentation.
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖</b></td>
+    <td>
+      <b>DevMind</b> · <i>AI Full Stack Developer Intern</i><br/>
+      <sub>Sep 2025 – Nov 2025 · Islamabad</sub><br/>
+      • Delivered LLM-backed modules across multiple AI-integrated MERN apps; owned debugging &amp; QA between AI inference layers and REST APIs.
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐</b></td>
+    <td>
+      <b>Nayatel</b> · <i>Full Stack Developer Intern</i><br/>
+      <sub>Jul 2025 – Aug 2025 · Islamabad</sub><br/>
+      • Shipped features and fixes on a production MERN codebase and improved REST API reliability.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/hateemxpam/DocSentinel">DocSentinel</a></h3>
+      <sub><b>Intelligent Policy Compliance Assistant</b></sub>
+      <p>Multimodal RAG with <b>hybrid retrieval (BM25 + semantic)</b>, cross-encoder reranking and dual confidence gates.</p>
+      <p>📉 <b>40% lower hallucination rate</b> · 🎯 <b>35% better retrieval precision</b> (RAGAs-validated)</p>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAGAs-6E40C9?style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 OCR Transaction Extraction</h3>
+      <sub><b>Document Intelligence for Audit</b></sub>
+      <p>Splits scanned packs into 7 document types and extracts audit fields with <b>schema-constrained LLM output driven by a YAML spec</b>, so new fields need no code changes.</p>
+      <p>✅ Deterministic verification layer checks every value against the OCR text and marks uncertain ones <b>“Needs Review”</b>.</p>
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Document%20Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/hateemxpam/AI-Crop-Advisory-System---Multi-Modal-RAG">AI Crop Advisory System</a></h3>
+      <sub><b>Multimodal, Multilingual RAG</b></sub>
+      <p>Image, voice and text queries in <b>English, Urdu and Punjabi</b>, with FAISS vector search and a pretrained vision model for crop disease detection.</p>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/hateemxpam/Deep-Packet-Inspection">DPI Engine</a></h3>
+      <sub><b>Deep Packet Inspection System</b></sub>
+      <p>Lock-free, flow-affinity multithreaded engine with byte-level <b>TLS SNI extraction</b>, sustaining <b>100,000+ packets/sec</b> on encrypted HTTPS traffic.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Multithreading-333333?style=flat-square" />
+      <img src="https://img.shields.io/badge/TLS%2FSNI-4B5563?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/hateemxpam/AutoFiver">Fiverr Gig Optimizer</a></h3>
+      <sub><b>AI-Powered Chrome Extension</b></sub>
+      <p>Competitor-aware gig content generation, NLP keyword recommendations, scam detection and an A/B testing framework.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 E2E Encrypted Messaging</h3>
+      <sub><b>Messaging &amp; File Security System</b></sub>
+      <p>Client-side <b>AES-256-GCM</b> encryption and a custom key-exchange protocol (ECDH, ECDSA, triple nonces) that closes MITM and replay attack vectors.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/hateemxpam?tab=repositories"><b>→ Explore all repositories</b></a></p>
+
+---
+
+## 🧰 Tech Stack
+
+**🧠 AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAGAs-6E40C9?style=for-the-badge" />
+</p>
+<sub>RAG · Hybrid Retrieval (BM25 + Semantic) · Cross-Encoder Reranking · Prompt Engineering · OCR · Multimodal AI · NLP</sub>
+
+**💻 Languages**
+<p><img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs&perline=12" /></p>
+
+**⚙️ Backend**
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs&perline=12" /></p>
+
+**🎨 Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,bootstrap,threejs&perline=12" /></p>
+
+**🗄️ Databases**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=12" /></p>
+
+**☁️ Cloud &amp; DevOps**
+<p><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,nginx,vercel&perline=12" /></p>
+
+**🛠️ Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma&perline=12" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" /></p>
+
+---
+
+## 🎓 Education &amp; Honors
+
+- 🎓 **BS Software Engineering**, FAST-NUCES Islamabad *(2022 – 2026)*
+- 🏅 **Dean's List of Honors x2**, Fall 2025 &amp; Spring 2026
+- 📜 **The Complete Full-Stack Web Development Bootcamp**, Udemy
+
+---
+
+<p align="center">
+  <i>💬 Open to conversations about RAG, document AI and LLM engineering. Feel free to reach out!</i>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=hateemxpam&icon=0&color=0" alt="Visit counter" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+</p>
