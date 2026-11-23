@@ -13,8 +13,6 @@
   <a href="https://hateemportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/hateemkb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hateemjaved8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/_.hateem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://facebook.com/profile.php?id=100074791250682"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
@@ -38,103 +36,6 @@ class Hateem:
     def philosophy(self):
         return "Don't trust the LLM. Verify every value against the source."
 ```
-
----
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="70"><b>🏦</b></td>
-    <td>
-      <b>United Bank Limited (UBL)</b> · <i>Junior Data Scientist</i><br/>
-      <sub>Jul 2026 – Present · Lahore</sub><br/>
-      • <b>OCR Data Extraction for Murabaha Financing (Shariah Audit):</b> API + CLI pipeline on Azure Document Intelligence &amp; Azure OpenAI that turns scanned transaction packs into review-ready Excel/JSON, cutting <b>1+ hour</b> of manual transcription to <b>~1 minute per pack</b>.<br/>
-      • <b>U Secure Fraud Detection:</b> validated amended fraud-detection rules against live pipeline runs and flagged inconsistencies in the rules documentation.
-    </td>
-  </tr>
-  <tr>
-    <td><b>🤖</b></td>
-    <td>
-      <b>DevMind</b> · <i>AI Full Stack Developer Intern</i><br/>
-      <sub>Sep 2025 – Nov 2025 · Islamabad</sub><br/>
-      • Delivered LLM-backed modules across multiple AI-integrated MERN apps; owned debugging &amp; QA between AI inference layers and REST APIs.
-    </td>
-  </tr>
-  <tr>
-    <td><b>🌐</b></td>
-    <td>
-      <b>Nayatel</b> · <i>Full Stack Developer Intern</i><br/>
-      <sub>Jul 2025 – Aug 2025 · Islamabad</sub><br/>
-      • Shipped features and fixes on a production MERN codebase and improved REST API reliability.
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/hateemxpam/DocSentinel">DocSentinel</a></h3>
-      <sub><b>Intelligent Policy Compliance Assistant</b></sub>
-      <p>Multimodal RAG with <b>hybrid retrieval (BM25 + semantic)</b>, cross-encoder reranking and dual confidence gates.</p>
-      <p>📉 <b>40% lower hallucination rate</b> · 🎯 <b>35% better retrieval precision</b> (RAGAs-validated)</p>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAGAs-6E40C9?style=flat-square" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 OCR Transaction Extraction</h3>
-      <sub><b>Document Intelligence for Audit</b></sub>
-      <p>Splits scanned packs into 7 document types and extracts audit fields with <b>schema-constrained LLM output driven by a YAML spec</b>, so new fields need no code changes.</p>
-      <p>✅ Deterministic verification layer checks every value against the OCR text and marks uncertain ones <b>“Needs Review”</b>.</p>
-      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Document%20Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/hateemxpam/AI-Crop-Advisory-System---Multi-Modal-RAG">AI Crop Advisory System</a></h3>
-      <sub><b>Multimodal, Multilingual RAG</b></sub>
-      <p>Image, voice and text queries in <b>English, Urdu and Punjabi</b>, with FAISS vector search and a pretrained vision model for crop disease detection.</p>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/hateemxpam/Deep-Packet-Inspection">DPI Engine</a></h3>
-      <sub><b>Deep Packet Inspection System</b></sub>
-      <p>Lock-free, flow-affinity multithreaded engine with byte-level <b>TLS SNI extraction</b>, sustaining <b>100,000+ packets/sec</b> on encrypted HTTPS traffic.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Multithreading-333333?style=flat-square" />
-      <img src="https://img.shields.io/badge/TLS%2FSNI-4B5563?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/hateemxpam/AutoFiver">Fiverr Gig Optimizer</a></h3>
-      <sub><b>AI-Powered Chrome Extension</b></sub>
-      <p>Competitor-aware gig content generation, NLP keyword recommendations, scam detection and an A/B testing framework.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 E2E Encrypted Messaging</h3>
-      <sub><b>Messaging &amp; File Security System</b></sub>
-      <p>Client-side <b>AES-256-GCM</b> encryption and a custom key-exchange protocol (ECDH, ECDSA, triple nonces) that closes MITM and replay attack vectors.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/hateemxpam?tab=repositories"><b>→ Explore all repositories</b></a></p>
 
 ---
 
@@ -171,6 +72,38 @@ class Hateem:
 <p><img src="https://skillicons.dev/icons?i=git,github,postman,figma&perline=12" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="48" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" /></p>
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="70"><b>🏦</b></td>
+    <td>
+      <b>United Bank Limited (UBL)</b> · <i>Junior Data Scientist</i><br/>
+      <sub>Jul 2026 – Present · Lahore</sub><br/>
+      • <b>OCR Data Extraction for Murabaha Financing (Shariah Audit):</b> API + CLI pipeline on Azure Document Intelligence &amp; Azure OpenAI that turns scanned transaction packs into review-ready Excel/JSON, cutting <b>1+ hour</b> of manual transcription to <b>~1 minute per pack</b>.<br/>
+      • <b>U Secure Fraud Detection:</b> validated amended fraud-detection rules against live pipeline runs and flagged inconsistencies in the rules documentation.
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖</b></td>
+    <td>
+      <b>DevMind</b> · <i>AI Full Stack Developer Intern</i><br/>
+      <sub>Sep 2025 – Nov 2025 · Islamabad</sub><br/>
+      • Delivered LLM-backed modules across multiple AI-integrated MERN apps; owned debugging &amp; QA between AI inference layers and REST APIs.
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐</b></td>
+    <td>
+      <b>Nayatel</b> · <i>Full Stack Developer Intern</i><br/>
+      <sub>Jul 2025 – Aug 2025 · Islamabad</sub><br/>
+      • Shipped features and fixes on a production MERN codebase and improved REST API reliability.
+    </td>
+  </tr>
+</table>
 
 ---
 
