@@ -1,11 +1,9 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hateem%20Khush%20Bakht&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Junior%20Data%20Scientist%20%40%20UBL%20%E2%80%A2%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hateem Khush Bakht" />
-</p>
+<h1 align="center">Hi 👋, I'm Hateem Khush Bakht</h1>
 
 <p align="center">
   <a href="https://hateemportfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+RAG+%26+LLM-powered+systems;Turning+scanned+documents+into+structured+data;Hybrid+retrieval+%E2%80%A2+Reranking+%E2%80%A2+Verification;MERN+%2B+FastAPI+full+stack+foundation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+Engineer+%26+Full+Stack+Developer;Building+intelligent+applications;From+idea+to+production" alt="Typing SVG" />
   </a>
 </p>
 
@@ -116,7 +114,7 @@ class Hateem:
 ---
 
 <p align="center">
-  <i>💬 Open to conversations about RAG, document AI and LLM engineering. Feel free to reach out!</i>
+  <i>Feel free to reach out!</i>
 </p>
 
 <p align="center">
